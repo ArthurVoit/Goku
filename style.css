@@ -1,0 +1,44 @@
+.viloes{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+}
+.imagem_sobre_o_goku{
+    padding-right: 15px;
+    display: flex;
+    align-items: center;
+}
+h3{
+    text-align: center;
+}
+.imagem_sobre_o_freeza{
+    justify-content: center;
+    display: flex;
+    padding-left: 700px;
+}
+header{
+    text-align: center;
+    background-color: orangered;
+    
+}
+p{
+    text-align: center;
+
+}
+
+div{
+    border-style: groove;
+    border-color: black;
+}
+
+#sobre_aliados{
+    display: flex;
+    padding-right: 15px;
+    align-items: center; 
+    justify-content: center;
+}
+body{
+    background-color: rgb(139, 0, 58);
+}
